@@ -5,8 +5,11 @@ public class K_BitShiftOp {
 		// TODO Auto-generated method stub
 		int num1 = 2;
 		int num2 = 3;
+		int num3 = 4;
+		int num4 = 5;
 		
 		System.out.println(num1+nmu3);
+		System.out.println(num2+nmu4);
 	}
 
 }
