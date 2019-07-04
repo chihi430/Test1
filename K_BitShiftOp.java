@@ -11,6 +11,7 @@ public class K_BitShiftOp {
 		
 		System.out.println(num1+nmu3); //주석추가
 		System.out.println(num2+nmu4); //주석추가
+		System.out.println(이상으로 마치겠습니다.); //끝
 	}
 
 }
